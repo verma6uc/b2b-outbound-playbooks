@@ -21,7 +21,7 @@ Proposed outbound sales playbooks for B2B software, SaaS, AI services and IT ser
 2. Define 3 negative ICP signals (who you should NOT pursue)
 3. Write your one-sentence value prop: "We help [ICP] achieve [outcome] without [pain]"
 
-Use the `build_icp` tool in [Mach GTM MCP](https://github.com/verma6uc/mach-gtm-mcp) to structure this.
+Use the `build_icp` tool in [MachGTM MCP](https://github.com/verma6uc/mach-gtm-mcp) to structure this.
 
 #### Phase 2: Signal-Based Targeting (Week 3-4)
 Don't spray and pray. Find accounts showing buying signals:
@@ -45,7 +45,7 @@ Research each one manually. 50 is small enough. Find:
 #### Phase 4: Sequence Execution (Week 7-10)
 Design a sequence for the account and permitted channels. Set the reply baseline and target from your own observations.
 
-Use [Mach GTM](https://machgtm.com) to automate the research and drafting while keeping human approval.
+Use [MachGTM](https://machgtm.com) to automate the research and drafting while keeping human approval.
 
 #### Phase 5: Learn and Iterate (Week 11-12)
 - Which signals correlated with replies?
@@ -150,7 +150,7 @@ Look for companies that:
 - Solve a complementary problem (not competing)
 - Already have trust with your target market
 
-Examples for [Mach GTM](https://machgtm.com) partners:
+Examples for [MachGTM](https://machgtm.com) partners:
 - CRMs (HubSpot, Salesforce consultants)
 - Sales training firms
 - GTM advisory firms
@@ -227,8 +227,8 @@ Use a fixed account group and reporting cutoff. Count substantive replies, meeti
 
 | Tool | Use |
 |------|-----|
-| [Mach GTM](https://machgtm.com) | Full AI outbound — research, writing, multi-channel, reply management |
-| [Mach GTM MCP](https://github.com/verma6uc/mach-gtm-mcp) | Build ICP, draft outreach, score leads via AI agents |
+| [MachGTM](https://machgtm.com) | Full AI outbound — research, writing, multi-channel, reply management |
+| [MachGTM MCP](https://github.com/verma6uc/mach-gtm-mcp) | Build ICP, draft outreach, score leads via AI agents |
 | Apollo.io | Contact database |
 | Clay | Data enrichment |
 | Instantly / Smartlead | High-volume email infrastructure |
