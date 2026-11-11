@@ -1,8 +1,8 @@
 # B2B Outbound Playbooks
 
-Proven outbound sales playbooks for B2B software, SaaS, AI services and IT services companies. Ready to use, free to adapt.
+Proposed outbound sales playbooks for B2B software, SaaS, AI services and IT services companies. Ready to use, free to adapt.
 
-> These playbooks are used by teams at [Mach GTM](https://machgtm.com) — the AI outbound platform for B2B software companies.
+> Maintained by the team at [MachGTM](https://machgtm.com). Timelines and targets below are planning examples to adapt to your market.
 
 ---
 
@@ -25,11 +25,11 @@ Use the `build_icp` tool in [Mach GTM MCP](https://github.com/verma6uc/mach-gtm-
 
 #### Phase 2: Signal-Based Targeting (Week 3-4)
 Don't spray and pray. Find accounts showing buying signals:
-- Hiring SDRs or BDRs → need to scale outbound
-- Recent funding → growth pressure
-- Exec posting about your problem space → already thinking about it
-- Using a complementary tool in their stack → fit
-- Expanding team size → budget available
+- Hiring SDRs or BDRs → ask what work the team is adding
+- Recent funding → investigate the stated use of funds
+- An executive's dated post → inspect the actual request
+- A complementary tool → check whether it affects service fit
+- Expanding headcount → confirm the relevant project and purchasing route
 
 #### Phase 3: First 50 Prospects (Week 5-6)
 Criteria:
@@ -39,11 +39,11 @@ Criteria:
 
 Research each one manually. 50 is small enough. Find:
 - 1 personal hook (their post, company announcement, interview)
-- 1 pain they're likely feeling
+- 1 supported request or an unanswered question about their work
 - 1 proof point from your portfolio that matches
 
 #### Phase 4: Sequence Execution (Week 7-10)
-Run a 5-touch sequence (email + LinkedIn). Goal: 10-15% positive reply rate.
+Design a sequence for the account and permitted channels. Set the reply baseline and target from your own observations.
 
 Use [Mach GTM](https://machgtm.com) to automate the research and drafting while keeping human approval.
 
@@ -71,7 +71,7 @@ Update ICP and repeat.
 Find accounts that:
 - Use the competitor (check BuiltWith, G2 reviews, job posts)
 - Have recently complained about the competitor on LinkedIn/Reddit/G2
-- Are at contract renewal time (funding anniversary, fiscal year-end)
+- Have a verified renewal or review date from an authorised source
 
 #### Messaging
 Lead with the competitor's weakness, not your product's features.
@@ -209,19 +209,17 @@ see if the same approach applies?
 ```
 
 #### Tracking
-Monitor which companies engage with your case study content (if you have a tool like [Mach GTM](https://machgtm.com) with signal detection, or Clearbit Reveal for your website). Prioritise outreach to those who are already researching you.
+Use analytics and conversation history your team is authorised to inspect. A company-level visit leaves the individual visitor and purchasing need unresolved. Review the [case-study evidence guide](https://machgtm.com/blog/customer-proof-project-context) before adapting proof for another account.
 
 ---
 
-## Metrics Benchmarks (B2B Software Outbound)
+## Measure the playbook
 
-| Metric | Low | Average | Good | Great |
-|--------|-----|---------|------|-------|
-| Email open rate | <20% | 30-40% | 45-55% | >60% |
-| Reply rate (cold) | <2% | 3-5% | 7-10% | >12% |
-| Positive reply rate | <1% | 2-3% | 4-6% | >8% |
-| Meeting booked rate | <0.5% | 1-2% | 3-4% | >5% |
-| Meeting to opp | <30% | 40-50% | 60-70% | >75% |
+Use a fixed account group and reporting cutoff. Count substantive replies, meetings booked, meetings held and accepted meetings with their denominators. Include review time and failed work.
+
+- [Pilot method](https://machgtm.com/blog/ai-sdr-pilot-scorecard) and [blank scorecard](https://machgtm.com/resources/ai-sdr-pilot-scorecard.md)
+- [Buying committee questions](https://machgtm.com/blog/b2b-buying-group-roles)
+- [Software-project bid, clarify or pass checklist](https://machgtm.com/blog/software-development-bid-no-bid-checklist)
 
 ---
 
@@ -243,4 +241,4 @@ Add a playbook, improve an existing one, or share your metrics. Open a PR.
 
 ---
 
-*Maintained by the community. Not affiliated with any paid tool unless noted.*
+*Maintained by the MachGTM team. Contributions are welcome.*
